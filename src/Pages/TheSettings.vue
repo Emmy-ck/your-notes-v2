@@ -352,7 +352,7 @@
                 <a
                   class="meta-link"
                   :class="linkStyle"
-                  href="https://github.com/AllanKirui/YourNotes"
+                  href="#"
                   target="_blank"
                   >Your Notes</a
                 >, an app I had created when I was just starting out coding.
@@ -392,7 +392,7 @@
                 </a>
                 <!-- github link -->
                 <a
-                  href="https://github.com/AllanKirui"
+                  href="#"
                   title="View project repo"
                   target="_blank"
                 >

@@ -156,7 +156,7 @@
             clone the project from
             <a
               class="meta-terms-links"
-              href="https://github.com/AllanKirui/your-notes-v2"
+              href="#"
               target="_blank"
               >GitHub</a
             >. Your credentials and data are secured by the authentication
